@@ -157,3 +157,5 @@ Execute the program
 ```
 # OUTPUT
 ![Alt text](table.png)
+# RESULT
+The Table was successfully created.

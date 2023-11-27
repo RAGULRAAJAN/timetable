@@ -155,5 +155,5 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
+# OUTPUT
 ![Alt text](table.png)
